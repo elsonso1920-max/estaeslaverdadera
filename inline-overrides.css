@@ -1,0 +1,18 @@
+.inline-hidden{display:none!important}
+.inline-hidden-mt{margin-top:15px!important}
+.inline-title-lg{font-size:1.8rem!important}
+.inline-bg-entrada{background-image:url("img/entrada.webp")}
+.inline-bg-salita{background-image:url("img/salita.webp")}
+.inline-bg-primario{background-image:url("img/primario.webp")}
+.inline-max-900{max-width:900px!important}
+.inline-center{text-align:center!important}
+.inline-center-note{margin:28px auto!important}
+.inline-404-main{min-height:100svh!important;display:grid!important;place-items:center!important}
+.inline-404-min{min-height:100svh!important}
+.inline-404-grid{display:grid!important}
+.inline-404-place{place-items:center!important}
+
+.inline-mt45{margin-top:45px!important}
+.inline-pb0{padding-bottom:0!important}
+.inline-bg-secundario{background-image:url("img/6ayb2026.webp")}
+.inline-bg-eme{background-image:url("img/EME.webp")}
